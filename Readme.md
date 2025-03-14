@@ -44,9 +44,8 @@ Le projet suit une méthodologie **Agile** et utilise un pipeline **CI/CD** avec
 
 ### Prérequis
 
-- **Python 3.8+** : Installé sur votre machine.
-- **PostgreSQL** : Installé et configuré localement ou via un service cloud.
-- **Node.js** (optionnel) : Si vous souhaitez utiliser un serveur local pour le frontend.
+- **Python 3.12.3**
+- **PostgreSQL** : Installé et configuré localement.
 
 ### Étapes d'installation
 
