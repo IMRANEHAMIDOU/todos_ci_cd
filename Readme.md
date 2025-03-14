@@ -52,5 +52,5 @@ Le projet suit une méthodologie **Agile** et utilise un pipeline **CI/CD** avec
 1. **Cloner le dépôt** :
    ```bash
    git clone https://github.com/IMRANEHAMIDOU/todos_ci_cd.git
-   cd todos
+   cd todos_ci_cd
    ```
